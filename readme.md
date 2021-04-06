@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-amonoqwqwe
-=======
-amonoreesdad
->>>>>>> feature/terewr
+# First content
